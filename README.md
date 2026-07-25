@@ -1,24 +1,21 @@
-# Brian Yang · YoungZM
+### Hi there, [Brian Yang](https://github.com/YoungZM339)（YoungZM） here! 👋
 
-Software developer focused on full-stack systems, applied AI, data platforms, and developer tooling.
+[Homepage (zh)](https://youngzm.com) · [Blog (zh)](https://blog.youngzm.com)
 
-## Technology
+![Skills](https://skillicons.dev/icons?i=azure,cloudflare,github,c,cpp,html,js,ts,css,py,go,md,regex,bash,docker,git,mysql,redis,linux,nginx,vim,vscode,electron,nodejs,react,vue)
 
-![Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,electron,py,fastapi,django,java,spring,c,cpp,go,mysql,postgres,redis,docker,linux,nginx,git,github,azure,cloudflare)
+<a href="https://github-readme-stats-one-bice.vercel.app/api?username=YoungZM339&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=YoungZM339&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="YoungZM339's GitHub stats" height="185px">
+</a>
+<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YoungZM339&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YoungZM339&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Top Langs" height="185px">
+</a>
 
+<a href="https://github-readme-stats-one-bice.vercel.app/api?username=YoungZM339&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" target="_blank">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=YoungZM339&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="YoungZM339's GitHub stats" height="185px">
+</a>
+<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YoungZM339&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YoungZM339&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
+</a>
 
-## GitHub activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=YoungZM339&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER">
-  <img alt="YoungZM339 GitHub statistics" src="https://github-readme-stats-one-bice.vercel.app/api?username=YoungZM339&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YoungZM339&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER">
-  <img alt="YoungZM339 most used languages" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YoungZM339&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER">
-</picture>
-
-## Contact
-
-For project discussions or collaboration, email [youngzm339@outlook.com](mailto:youngzm339@outlook.com).
+📫 How to reach me : Why not [write an email to me](mailto:youngzm339@outlook.com)?
